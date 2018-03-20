@@ -3,6 +3,9 @@
 ## Authors
 
 **Mark Marrano** - [mmarrano](https://github.com/mmarrano)
+**Jaclyn Ralfs**
+**Caleb Nash**
+**Bobby Schedler**
 
 Downhill racing game worked on with three other classmates.
 
